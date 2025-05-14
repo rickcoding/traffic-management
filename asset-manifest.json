@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/traffic-management/static/css/main.761c6a53.css",
+    "main.js": "/traffic-management/static/js/main.fa8b0504.js",
+    "static/js/453.ef169036.chunk.js": "/traffic-management/static/js/453.ef169036.chunk.js",
+    "index.html": "/traffic-management/index.html",
+    "main.761c6a53.css.map": "/traffic-management/static/css/main.761c6a53.css.map",
+    "main.fa8b0504.js.map": "/traffic-management/static/js/main.fa8b0504.js.map",
+    "453.ef169036.chunk.js.map": "/traffic-management/static/js/453.ef169036.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.761c6a53.css",
+    "static/js/main.fa8b0504.js"
+  ]
+}
